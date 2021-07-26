@@ -21,7 +21,7 @@
 
 
 
-
+<!-- 
 
 ## &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&layout=compact&hide=html" alt="MOHAMEDELDAKDOUKY" /></p>  
@@ -30,9 +30,9 @@
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
+<!-- wi*quL3fcV -->
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="#"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&layout=compact&bg_color=0&theme=graywhite" /></a>
+<a href="#"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=white&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&layout=compact&bg_color=white&theme=graywhite" /></a>
 
