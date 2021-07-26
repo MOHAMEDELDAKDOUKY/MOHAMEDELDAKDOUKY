@@ -28,8 +28,7 @@
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY)](https://github.com/MOHAMEDELDAKDOUKY/github-readme-stats)
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[Mohamed H. El-Dakdouky](https://www.linkedin.com/in/mohamedel-dakdouky/)
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/mohamedel-dakdouky/)
 
 
 
