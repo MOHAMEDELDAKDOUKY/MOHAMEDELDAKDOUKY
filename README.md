@@ -1,9 +1,9 @@
 
 
 
-<h2 align="center">Hello there! My name is Aydin Ayanzadeh👋</h2>
-<p align="center">MS.c of Applied Informatics at Istanbul Technical University. My research interests include computer vision, image processing and Deep Learning applications.</p>
-
+<h2 align="center">Hello there! My name is Mohamed H. El-Dakdouky👋</h2>
+<p align="center">MS.c student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg (H-BRS)</p>
+<!--
 <p align='center'>
 <a href="https://dev.to/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aydin_ayanzadeh"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -44,7 +44,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="#"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Ayanzadeh93&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanzadeh93&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
+<a href="#"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
 
 
 <!-- links to social media icons -->
