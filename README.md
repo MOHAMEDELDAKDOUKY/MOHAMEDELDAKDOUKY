@@ -43,8 +43,12 @@
 - ⚡ Languages: Python, Matlab, C++, C
 
 ## &#x1f4c8; GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&layout=compact&hide=html" alt="MOHAMEDELDAKDOUKY" /></p>  
 
-<a href="#"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY)](https://github.com/MOHAMEDELDAKDOUKY/github-readme-stats)
+
+📺 [Youtube](https://www.youtube.com/channel/UCDjY8EDU3F_upX53iWIP3RA) **|** 
+👔 [linkedin](https://www.linkedin.com/in/ahmed-radwan-682193155/)
 
 
 <!-- links to social media icons -->
