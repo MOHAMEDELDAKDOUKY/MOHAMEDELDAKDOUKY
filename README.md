@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Hello there! My name is Mohamed H. El-Dakdouky👋</h2>
-<p align="center">MS.c student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg (H-BRS)</p>
+<p align="center">MSc student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg (H-BRS)</p>
 
 
 **Languages**
