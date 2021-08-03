@@ -5,34 +5,22 @@
 <p align="center">MSc student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg (H-BRS)</p>
 
 
-**Languages**
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-**Technologies**
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&layout=compact)](https://github.com/MOHAMEDELDAKDOUKY/github-readme-stats)
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+<!--
+**jasleon/jasleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-
-<!-- 
-
-## &#x1f4c8; GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&layout=compact&hide=html" alt="MOHAMEDELDAKDOUKY" /></p>  
-
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY)](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&layout=compact&bg_color=0&theme=graywhit)
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<!-- wi*quL3fcV -->
-
-## &#x1f4c8; GitHub Stats
-
-<a href="#"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=white&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDELDAKDOUKY&hide_title=true&hide_border=true&layout=compact&bg_color=white&theme=graywhite" /></a>
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
